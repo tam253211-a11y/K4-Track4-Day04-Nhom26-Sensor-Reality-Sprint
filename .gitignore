@@ -1,0 +1,17 @@
+# Downloaded inputs and local dependencies
+.deps/
+data/
+models/
+
+# Generated image variants (~292 MB); regenerate with run_project.py prepare
+outputs/conditions/
+
+# Local caches and temporary renders
+__pycache__/
+*.pyc
+tmp/
+runs/
+.cache/
+
+# Ultralytics cache files
+*.cache

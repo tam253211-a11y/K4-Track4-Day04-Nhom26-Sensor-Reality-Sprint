@@ -1,0 +1,898 @@
+[
+  {
+    "image_id": "000000000009",
+    "source": "data\\coco128\\images\\train2017\\000000000009.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000009.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000025",
+    "source": "data\\coco128\\images\\train2017\\000000000025.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000025.txt",
+    "width": 640,
+    "height": 426
+  },
+  {
+    "image_id": "000000000030",
+    "source": "data\\coco128\\images\\train2017\\000000000030.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000030.txt",
+    "width": 640,
+    "height": 428
+  },
+  {
+    "image_id": "000000000034",
+    "source": "data\\coco128\\images\\train2017\\000000000034.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000034.txt",
+    "width": 640,
+    "height": 425
+  },
+  {
+    "image_id": "000000000036",
+    "source": "data\\coco128\\images\\train2017\\000000000036.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000036.txt",
+    "width": 481,
+    "height": 640
+  },
+  {
+    "image_id": "000000000042",
+    "source": "data\\coco128\\images\\train2017\\000000000042.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000042.txt",
+    "width": 640,
+    "height": 478
+  },
+  {
+    "image_id": "000000000049",
+    "source": "data\\coco128\\images\\train2017\\000000000049.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000049.txt",
+    "width": 381,
+    "height": 500
+  },
+  {
+    "image_id": "000000000061",
+    "source": "data\\coco128\\images\\train2017\\000000000061.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000061.txt",
+    "width": 640,
+    "height": 488
+  },
+  {
+    "image_id": "000000000064",
+    "source": "data\\coco128\\images\\train2017\\000000000064.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000064.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000071",
+    "source": "data\\coco128\\images\\train2017\\000000000071.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000071.txt",
+    "width": 640,
+    "height": 426
+  },
+  {
+    "image_id": "000000000072",
+    "source": "data\\coco128\\images\\train2017\\000000000072.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000072.txt",
+    "width": 427,
+    "height": 640
+  },
+  {
+    "image_id": "000000000073",
+    "source": "data\\coco128\\images\\train2017\\000000000073.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000073.txt",
+    "width": 565,
+    "height": 640
+  },
+  {
+    "image_id": "000000000074",
+    "source": "data\\coco128\\images\\train2017\\000000000074.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000074.txt",
+    "width": 640,
+    "height": 426
+  },
+  {
+    "image_id": "000000000077",
+    "source": "data\\coco128\\images\\train2017\\000000000077.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000077.txt",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "image_id": "000000000078",
+    "source": "data\\coco128\\images\\train2017\\000000000078.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000078.txt",
+    "width": 612,
+    "height": 612
+  },
+  {
+    "image_id": "000000000081",
+    "source": "data\\coco128\\images\\train2017\\000000000081.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000081.txt",
+    "width": 640,
+    "height": 425
+  },
+  {
+    "image_id": "000000000086",
+    "source": "data\\coco128\\images\\train2017\\000000000086.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000086.txt",
+    "width": 512,
+    "height": 640
+  },
+  {
+    "image_id": "000000000089",
+    "source": "data\\coco128\\images\\train2017\\000000000089.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000089.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000092",
+    "source": "data\\coco128\\images\\train2017\\000000000092.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000092.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000094",
+    "source": "data\\coco128\\images\\train2017\\000000000094.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000094.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000109",
+    "source": "data\\coco128\\images\\train2017\\000000000109.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000109.txt",
+    "width": 640,
+    "height": 416
+  },
+  {
+    "image_id": "000000000110",
+    "source": "data\\coco128\\images\\train2017\\000000000110.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000110.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000113",
+    "source": "data\\coco128\\images\\train2017\\000000000113.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000113.txt",
+    "width": 416,
+    "height": 640
+  },
+  {
+    "image_id": "000000000127",
+    "source": "data\\coco128\\images\\train2017\\000000000127.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000127.txt",
+    "width": 640,
+    "height": 481
+  },
+  {
+    "image_id": "000000000133",
+    "source": "data\\coco128\\images\\train2017\\000000000133.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000133.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000136",
+    "source": "data\\coco128\\images\\train2017\\000000000136.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000136.txt",
+    "width": 500,
+    "height": 374
+  },
+  {
+    "image_id": "000000000138",
+    "source": "data\\coco128\\images\\train2017\\000000000138.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000138.txt",
+    "width": 640,
+    "height": 573
+  },
+  {
+    "image_id": "000000000142",
+    "source": "data\\coco128\\images\\train2017\\000000000142.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000142.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000143",
+    "source": "data\\coco128\\images\\train2017\\000000000143.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000143.txt",
+    "width": 600,
+    "height": 500
+  },
+  {
+    "image_id": "000000000144",
+    "source": "data\\coco128\\images\\train2017\\000000000144.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000144.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000149",
+    "source": "data\\coco128\\images\\train2017\\000000000149.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000149.txt",
+    "width": 640,
+    "height": 428
+  },
+  {
+    "image_id": "000000000151",
+    "source": "data\\coco128\\images\\train2017\\000000000151.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000151.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000154",
+    "source": "data\\coco128\\images\\train2017\\000000000154.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000154.txt",
+    "width": 427,
+    "height": 640
+  },
+  {
+    "image_id": "000000000164",
+    "source": "data\\coco128\\images\\train2017\\000000000164.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000164.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000165",
+    "source": "data\\coco128\\images\\train2017\\000000000165.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000165.txt",
+    "width": 640,
+    "height": 536
+  },
+  {
+    "image_id": "000000000192",
+    "source": "data\\coco128\\images\\train2017\\000000000192.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000192.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000194",
+    "source": "data\\coco128\\images\\train2017\\000000000194.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000194.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000196",
+    "source": "data\\coco128\\images\\train2017\\000000000196.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000196.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000201",
+    "source": "data\\coco128\\images\\train2017\\000000000201.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000201.txt",
+    "width": 640,
+    "height": 428
+  },
+  {
+    "image_id": "000000000208",
+    "source": "data\\coco128\\images\\train2017\\000000000208.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000208.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000241",
+    "source": "data\\coco128\\images\\train2017\\000000000241.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000241.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000247",
+    "source": "data\\coco128\\images\\train2017\\000000000247.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000247.txt",
+    "width": 640,
+    "height": 424
+  },
+  {
+    "image_id": "000000000250",
+    "source": "data\\coco128\\images\\train2017\\000000000250.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000250.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000257",
+    "source": "data\\coco128\\images\\train2017\\000000000257.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000257.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000260",
+    "source": "data\\coco128\\images\\train2017\\000000000260.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000260.txt",
+    "width": 500,
+    "height": 333
+  },
+  {
+    "image_id": "000000000263",
+    "source": "data\\coco128\\images\\train2017\\000000000263.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000263.txt",
+    "width": 591,
+    "height": 640
+  },
+  {
+    "image_id": "000000000283",
+    "source": "data\\coco128\\images\\train2017\\000000000283.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000283.txt",
+    "width": 428,
+    "height": 640
+  },
+  {
+    "image_id": "000000000294",
+    "source": "data\\coco128\\images\\train2017\\000000000294.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000294.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000307",
+    "source": "data\\coco128\\images\\train2017\\000000000307.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000307.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000308",
+    "source": "data\\coco128\\images\\train2017\\000000000308.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000308.txt",
+    "width": 640,
+    "height": 426
+  },
+  {
+    "image_id": "000000000309",
+    "source": "data\\coco128\\images\\train2017\\000000000309.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000309.txt",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "image_id": "000000000312",
+    "source": "data\\coco128\\images\\train2017\\000000000312.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000312.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000315",
+    "source": "data\\coco128\\images\\train2017\\000000000315.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000315.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000321",
+    "source": "data\\coco128\\images\\train2017\\000000000321.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000321.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000322",
+    "source": "data\\coco128\\images\\train2017\\000000000322.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000322.txt",
+    "width": 640,
+    "height": 481
+  },
+  {
+    "image_id": "000000000326",
+    "source": "data\\coco128\\images\\train2017\\000000000326.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000326.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000328",
+    "source": "data\\coco128\\images\\train2017\\000000000328.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000328.txt",
+    "width": 640,
+    "height": 491
+  },
+  {
+    "image_id": "000000000332",
+    "source": "data\\coco128\\images\\train2017\\000000000332.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000332.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000338",
+    "source": "data\\coco128\\images\\train2017\\000000000338.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000338.txt",
+    "width": 640,
+    "height": 327
+  },
+  {
+    "image_id": "000000000349",
+    "source": "data\\coco128\\images\\train2017\\000000000349.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000349.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000357",
+    "source": "data\\coco128\\images\\train2017\\000000000357.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000357.txt",
+    "width": 640,
+    "height": 218
+  },
+  {
+    "image_id": "000000000359",
+    "source": "data\\coco128\\images\\train2017\\000000000359.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000359.txt",
+    "width": 500,
+    "height": 332
+  },
+  {
+    "image_id": "000000000360",
+    "source": "data\\coco128\\images\\train2017\\000000000360.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000360.txt",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "image_id": "000000000368",
+    "source": "data\\coco128\\images\\train2017\\000000000368.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000368.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000370",
+    "source": "data\\coco128\\images\\train2017\\000000000370.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000370.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000382",
+    "source": "data\\coco128\\images\\train2017\\000000000382.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000382.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000384",
+    "source": "data\\coco128\\images\\train2017\\000000000384.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000384.txt",
+    "width": 446,
+    "height": 640
+  },
+  {
+    "image_id": "000000000387",
+    "source": "data\\coco128\\images\\train2017\\000000000387.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000387.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000389",
+    "source": "data\\coco128\\images\\train2017\\000000000389.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000389.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000394",
+    "source": "data\\coco128\\images\\train2017\\000000000394.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000394.txt",
+    "width": 640,
+    "height": 611
+  },
+  {
+    "image_id": "000000000395",
+    "source": "data\\coco128\\images\\train2017\\000000000395.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000395.txt",
+    "width": 640,
+    "height": 580
+  },
+  {
+    "image_id": "000000000397",
+    "source": "data\\coco128\\images\\train2017\\000000000397.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000397.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000400",
+    "source": "data\\coco128\\images\\train2017\\000000000400.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000400.txt",
+    "width": 638,
+    "height": 640
+  },
+  {
+    "image_id": "000000000404",
+    "source": "data\\coco128\\images\\train2017\\000000000404.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000404.txt",
+    "width": 426,
+    "height": 640
+  },
+  {
+    "image_id": "000000000415",
+    "source": "data\\coco128\\images\\train2017\\000000000415.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000415.txt",
+    "width": 359,
+    "height": 640
+  },
+  {
+    "image_id": "000000000419",
+    "source": "data\\coco128\\images\\train2017\\000000000419.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000419.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000428",
+    "source": "data\\coco128\\images\\train2017\\000000000428.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000428.txt",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "image_id": "000000000431",
+    "source": "data\\coco128\\images\\train2017\\000000000431.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000431.txt",
+    "width": 640,
+    "height": 389
+  },
+  {
+    "image_id": "000000000436",
+    "source": "data\\coco128\\images\\train2017\\000000000436.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000436.txt",
+    "width": 427,
+    "height": 640
+  },
+  {
+    "image_id": "000000000438",
+    "source": "data\\coco128\\images\\train2017\\000000000438.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000438.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000443",
+    "source": "data\\coco128\\images\\train2017\\000000000443.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000443.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000446",
+    "source": "data\\coco128\\images\\train2017\\000000000446.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000446.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000450",
+    "source": "data\\coco128\\images\\train2017\\000000000450.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000450.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000459",
+    "source": "data\\coco128\\images\\train2017\\000000000459.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000459.txt",
+    "width": 516,
+    "height": 640
+  },
+  {
+    "image_id": "000000000471",
+    "source": "data\\coco128\\images\\train2017\\000000000471.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000471.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000472",
+    "source": "data\\coco128\\images\\train2017\\000000000472.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000472.txt",
+    "width": 640,
+    "height": 226
+  },
+  {
+    "image_id": "000000000474",
+    "source": "data\\coco128\\images\\train2017\\000000000474.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000474.txt",
+    "width": 333,
+    "height": 500
+  },
+  {
+    "image_id": "000000000486",
+    "source": "data\\coco128\\images\\train2017\\000000000486.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000486.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000488",
+    "source": "data\\coco128\\images\\train2017\\000000000488.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000488.txt",
+    "width": 640,
+    "height": 406
+  },
+  {
+    "image_id": "000000000490",
+    "source": "data\\coco128\\images\\train2017\\000000000490.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000490.txt",
+    "width": 500,
+    "height": 495
+  },
+  {
+    "image_id": "000000000491",
+    "source": "data\\coco128\\images\\train2017\\000000000491.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000491.txt",
+    "width": 500,
+    "height": 313
+  },
+  {
+    "image_id": "000000000502",
+    "source": "data\\coco128\\images\\train2017\\000000000502.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000502.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000508",
+    "source": "data\\coco128\\images\\train2017\\000000000508.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000508.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000510",
+    "source": "data\\coco128\\images\\train2017\\000000000510.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000510.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000514",
+    "source": "data\\coco128\\images\\train2017\\000000000514.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000514.txt",
+    "width": 360,
+    "height": 640
+  },
+  {
+    "image_id": "000000000520",
+    "source": "data\\coco128\\images\\train2017\\000000000520.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000520.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000529",
+    "source": "data\\coco128\\images\\train2017\\000000000529.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000529.txt",
+    "width": 427,
+    "height": 640
+  },
+  {
+    "image_id": "000000000531",
+    "source": "data\\coco128\\images\\train2017\\000000000531.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000531.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000532",
+    "source": "data\\coco128\\images\\train2017\\000000000532.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000532.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000536",
+    "source": "data\\coco128\\images\\train2017\\000000000536.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000536.txt",
+    "width": 448,
+    "height": 336
+  },
+  {
+    "image_id": "000000000540",
+    "source": "data\\coco128\\images\\train2017\\000000000540.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000540.txt",
+    "width": 640,
+    "height": 425
+  },
+  {
+    "image_id": "000000000542",
+    "source": "data\\coco128\\images\\train2017\\000000000542.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000542.txt",
+    "width": 640,
+    "height": 484
+  },
+  {
+    "image_id": "000000000544",
+    "source": "data\\coco128\\images\\train2017\\000000000544.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000544.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000560",
+    "source": "data\\coco128\\images\\train2017\\000000000560.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000560.txt",
+    "width": 460,
+    "height": 312
+  },
+  {
+    "image_id": "000000000562",
+    "source": "data\\coco128\\images\\train2017\\000000000562.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000562.txt",
+    "width": 423,
+    "height": 640
+  },
+  {
+    "image_id": "000000000564",
+    "source": "data\\coco128\\images\\train2017\\000000000564.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000564.txt",
+    "width": 520,
+    "height": 640
+  },
+  {
+    "image_id": "000000000569",
+    "source": "data\\coco128\\images\\train2017\\000000000569.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000569.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000572",
+    "source": "data\\coco128\\images\\train2017\\000000000572.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000572.txt",
+    "width": 427,
+    "height": 640
+  },
+  {
+    "image_id": "000000000575",
+    "source": "data\\coco128\\images\\train2017\\000000000575.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000575.txt",
+    "width": 640,
+    "height": 513
+  },
+  {
+    "image_id": "000000000581",
+    "source": "data\\coco128\\images\\train2017\\000000000581.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000581.txt",
+    "width": 473,
+    "height": 500
+  },
+  {
+    "image_id": "000000000584",
+    "source": "data\\coco128\\images\\train2017\\000000000584.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000584.txt",
+    "width": 640,
+    "height": 426
+  },
+  {
+    "image_id": "000000000589",
+    "source": "data\\coco128\\images\\train2017\\000000000589.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000589.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000590",
+    "source": "data\\coco128\\images\\train2017\\000000000590.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000590.txt",
+    "width": 409,
+    "height": 500
+  },
+  {
+    "image_id": "000000000595",
+    "source": "data\\coco128\\images\\train2017\\000000000595.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000595.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000597",
+    "source": "data\\coco128\\images\\train2017\\000000000597.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000597.txt",
+    "width": 640,
+    "height": 248
+  },
+  {
+    "image_id": "000000000599",
+    "source": "data\\coco128\\images\\train2017\\000000000599.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000599.txt",
+    "width": 640,
+    "height": 407
+  },
+  {
+    "image_id": "000000000605",
+    "source": "data\\coco128\\images\\train2017\\000000000605.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000605.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000612",
+    "source": "data\\coco128\\images\\train2017\\000000000612.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000612.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000620",
+    "source": "data\\coco128\\images\\train2017\\000000000620.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000620.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000623",
+    "source": "data\\coco128\\images\\train2017\\000000000623.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000623.txt",
+    "width": 375,
+    "height": 500
+  },
+  {
+    "image_id": "000000000625",
+    "source": "data\\coco128\\images\\train2017\\000000000625.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000625.txt",
+    "width": 640,
+    "height": 446
+  },
+  {
+    "image_id": "000000000626",
+    "source": "data\\coco128\\images\\train2017\\000000000626.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000626.txt",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "image_id": "000000000629",
+    "source": "data\\coco128\\images\\train2017\\000000000629.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000629.txt",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "image_id": "000000000634",
+    "source": "data\\coco128\\images\\train2017\\000000000634.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000634.txt",
+    "width": 427,
+    "height": 640
+  },
+  {
+    "image_id": "000000000636",
+    "source": "data\\coco128\\images\\train2017\\000000000636.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000636.txt",
+    "width": 480,
+    "height": 640
+  },
+  {
+    "image_id": "000000000641",
+    "source": "data\\coco128\\images\\train2017\\000000000641.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000641.txt",
+    "width": 640,
+    "height": 428
+  },
+  {
+    "image_id": "000000000643",
+    "source": "data\\coco128\\images\\train2017\\000000000643.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000643.txt",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "image_id": "000000000650",
+    "source": "data\\coco128\\images\\train2017\\000000000650.jpg",
+    "label": "outputs\\conditions\\severity_0\\labels\\val\\000000000650.txt",
+    "width": 640,
+    "height": 427
+  }
+]
